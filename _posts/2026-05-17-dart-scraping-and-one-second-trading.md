@@ -1,6 +1,6 @@
 ---
 title: "DART Scraping and One-Second Trading — Korean Equity Automation, 2009–2015"
-date: 2026-05-17 10:00:00 +0900
+date: 2026-05-17 00:00:00 +0900
 categories: [Trading, Systems]
 tags: [korean-equity, systematic-trading, dart-scraping, linear-regression, cybosplus]
 ---
