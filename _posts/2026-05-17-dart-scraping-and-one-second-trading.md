@@ -3,6 +3,8 @@ title: "DART Scraping and One-Second Trading â€” Korean Equity Automation, 2009â
 date: 2026-05-17 00:00:00 +0900
 categories: [Trading, Systems]
 tags: [korean-equity, systematic-trading, dart-scraping, linear-regression, cybosplus]
+---
+
 *This is Part 1 of a two-part series. [Part 2](/posts/cross-exchange-arbitrage-2017/) covers cross-exchange cryptocurrency arbitrage (2017).*
 
 ---
