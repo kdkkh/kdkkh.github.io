@@ -3,6 +3,8 @@ title: "DART Scraping and One-Second Trading — Korean Equity Automation, 2009�
 date: 2026-05-17 00:00:00 +0900
 categories: [Trading, Systems]
 tags: [korean-equity, systematic-trading, dart-scraping, linear-regression, cybosplus]
+*This is Part 1 of a two-part series. [Part 2](/posts/cross-exchange-arbitrage-2017/) covers cross-exchange cryptocurrency arbitrage (2017).*
+
 ---
 
 ## Context: Who I Was in 2009
@@ -140,3 +142,7 @@ The difference between the two is whether you're observing a **mechanism** or a 
 | Defense | Pre-filing price trajectory filter |
 | Period | 2009–2015 |
 | Outcome | Profitable until information leakage made risk-adjusted returns negative |
+
+---
+
+**Read Part 2**: [Cross-Exchange Arbitrage — When a 3% Margin Accidentally Rode an 8x Bull Run (2017)](/posts/cross-exchange-arbitrage-2017/)
